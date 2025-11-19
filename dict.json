@@ -1761,5 +1761,23 @@
     "Tags ▴▾": "标签 ▴▾",
     "Images ▴▾": "图片 ▴▾",
     "Images": "图片"
+  },
+  "Patch_Table_Sort_Fix": {
+    "Username ▴": "用户名 ▴",
+    "Username ▾": "用户名 ▾",
+    "Registered ▴": "注册时间 ▴",
+    "Registered ▾": "注册时间 ▾",
+    "VNs ▴": "视觉小说 ▴",
+    "VNs ▾": "视觉小说 ▾",
+    "Votes ▴": "投票数 ▴",
+    "Votes ▾": "投票数 ▾",
+    "Wishlist ▴": "愿望单 ▴",
+    "Wishlist ▾": "愿望单 ▾",
+    "Edits ▴": "编辑次数 ▴",
+    "Edits ▾": "编辑次数 ▾",
+    "Tags ▴": "标签 ▴",
+    "Tags ▾": "标签 ▾",
+    "Images ▴": "图片 ▴",
+    "Images ▾": "图片 ▾"
   }
 }
