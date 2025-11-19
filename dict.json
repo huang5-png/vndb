@@ -440,7 +440,9 @@
     "API": "API 接口",
     "Tag: Theme": "标签：主题",
     "Story Elements": "故事元素",
-    "themes": "主题"
+    "themes": "主题",
+    "Tag: Misc. Character Tags": "标签：其他角色标签",
+"Misc. Character Tags": "其他角色标签"
   },
   "Tags": {
     "Adv": "ADV (文字冒险)",
@@ -1147,7 +1149,21 @@
     "Temple": "寺庙",
     "Forest": "森林",
     "Shops": "商店",
-    "Church": "教会"
+    "Church": "教会",
+    "Dark Skinned Characters": "黑皮肤角色",
+"Elementary School Student": "小学生",
+"Kemonomimi Hero": "兽耳男主",
+"Kemonomimi Heroine": "兽耳女主",
+"Kemonomimi Protagonist": "兽耳主角",
+"Non-Binary Characters": "非二元性别角色",
+"Non-Binary Protagonist": "非二元性别主角",
+"Obacon": "大妈控 (Obacon)",
+"Object Heads": "异形头",
+"Ojicon": "大叔控 (Ojicon)",
+"Only Furry Heroes": "仅兽人男主",
+"Only Furry Heroines": "仅兽人女主",
+"Skin Color Selection": "肤色选择",
+"Student Hero": "学生男主"
   },
   "Traits": {
     "Hair Color": "发色",
@@ -1502,6 +1518,7 @@
     "As Shirou and Saber navigate the dangerous Holy Grail War, they form alliances and face numerous adversaries, each with their own ambitions and secrets. The bond between Master and Servant deepens as they confront perilous challenges and uncover hidden truths.": "随着士郎和 Saber 在危险的圣杯战争中前行，他们结成同盟并面对无数对手，每个人都有自己的野心和秘密。御主与从者之间的羁绊在面对危险挑战和揭开隐藏真相的过程中不断加深。",
     "These are what you can call the game is about if they are the major themes of a story. Or maybe the small things you notice in that story that still stand out and add to it in a way.": "如果它们是故事的主要主题，那这就是游戏的核心内容。或者它们可能是你在故事中注意到的、引人注目并为故事增色的小细节。",
     "These tags are for the major and minor": "这些标签涵盖了主要和次要的主题...",
-    "or the elements of a game's story that presents themselves in a noticeable way.": "...或者在游戏故事中以显著方式呈现的元素。"
+    "or the elements of a game's story that presents themselves in a noticeable way.": "...或者在游戏故事中以显著方式呈现的元素。",
+    "This meta tag is to gather character tags that don't specifically apply to a protagonist, heroine or a support character at this level.": "此元标签旨在收集那些不特定适用于主角、女主或配角的角色标签。"
   }
 }
