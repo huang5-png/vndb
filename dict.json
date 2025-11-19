@@ -538,7 +538,12 @@
     "covers": "封面",
     "screens": "截图",
     "reviews": "评测",
-    "quotes": "语录"
+    "quotes": "语录",
+    "Menu": "菜单",
+    "API": "API 接口",
+    "Tag: Theme": "标签：主题",
+    "Story Elements": "故事元素",
+    "themes": "主题"
   },
   "Tags": {
     "Adv": "ADV (文字冒险)",
@@ -1597,6 +1602,9 @@
     "The Holy Grail War, a brutal battle royale, pits seven mages, known as Masters, against each other. Each Master summons a formidable warrior from various eras as their Servant, all vying for the ultimate prize: the Holy Grail, a wish-granting artifact.": "圣杯战争是一场残酷的大逃杀，七名被称为“御主”的魔术师相互厮杀。每位御主都会从不同时代召唤一名强大的战士作为“从者”，争夺最终的奖品：能够实现愿望的万能许愿机——圣杯。",
     "In the bustling city of Fuyuki, a secret battle rages in the shadows.": "在繁华的冬木市，一场秘密的战斗正在阴影中肆虐。",
     "Emiya Shirou, an ordinary high school student driven by an unwavering sense of justice, finds himself unwillingly pulled into this deadly conflict. One evening, Shirou witnesses a fierce battle between Servants. The clang of steel and the crackle of magic fill the air as they clash. Mortally wounded in the chaos, Shirou is saved by the enigmatic Tohsaka Rin and her Servant Archer. In a desperate attempt to protect himself, Shirou accidentally summons his own Servant, Saber—a noble and beautiful knight with a mysterious past.": "卫宫士郎，一名心怀正义感的普通高中生，发现自己被迫卷入了这场致命的冲突。一天晚上，士郎目睹了从者之间的激烈战斗。钢铁的碰撞声和魔法的爆裂声充斥着空气。在混乱中受到致命伤的士郎被神秘的远坂凛和她的从者 Archer 救下。在绝望的自卫中，士郎意外召唤了自己的从者 Saber——一位拥有神秘过去的各种高贵美丽的骑士。",
-    "As Shirou and Saber navigate the dangerous Holy Grail War, they form alliances and face numerous adversaries, each with their own ambitions and secrets. The bond between Master and Servant deepens as they confront perilous challenges and uncover hidden truths.": "随着士郎和 Saber 在危险的圣杯战争中前行，他们结成同盟并面对无数对手，每个人都有自己的野心和秘密。御主与从者之间的羁绊在面对危险挑战和揭开隐藏真相的过程中不断加深。"
+    "As Shirou and Saber navigate the dangerous Holy Grail War, they form alliances and face numerous adversaries, each with their own ambitions and secrets. The bond between Master and Servant deepens as they confront perilous challenges and uncover hidden truths.": "随着士郎和 Saber 在危险的圣杯战争中前行，他们结成同盟并面对无数对手，每个人都有自己的野心和秘密。御主与从者之间的羁绊在面对危险挑战和揭开隐藏真相的过程中不断加深。",
+    "These are what you can call the game is about if they are the major themes of a story. Or maybe the small things you notice in that story that still stand out and add to it in a way.": "如果它们是故事的主要主题，那这就是游戏的核心内容。或者它们可能是你在故事中注意到的、引人注目并为故事增色的小细节。",
+    "These tags are for the major and minor": "这些标签涵盖了主要和次要的主题...",
+    "or the elements of a game's story that presents themselves in a noticeable way.": "...或者在游戏故事中以显著方式呈现的元素。"
   }
 }
