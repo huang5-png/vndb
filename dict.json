@@ -1661,5 +1661,10 @@
   },
   "Patch_FAQ_FinalFix": {
     "high probability it simply does not exist, anywhere. Second, we don't translate these games ourselves and we do not coordinate the translations, either, so asking for a translation here is rather pointless and a sure-fire way to get your thread locked. Also, there is an order of magnitude more visual novels than there are translators within this community. :-(": "大的可能它根本就不存在。其次，我们自己不翻译这些游戏，也不协调翻译工作，所以在这里请求翻译是没有意义的，而且肯定会导致你的帖子被锁定。此外，视觉小说的数量级远超这个社区里的译者数量。:-("
+  },
+  "Patch_FAQ_Newline": {
+    "high probability it simply does not exist, anywhere. Second, we don't translate these games ourselves and we do not coordinate the translations, either, so asking for a translation here is rather pointless and a sure-fire way to get your thread locked.\nAlso, there is an order of magnitude more visual novels than there are translators within this community. :-(": "大的可能它根本就不存在。其次，我们自己不翻译这些游戏，也不协调翻译工作，所以在这里请求翻译是没有意义的，而且肯定会导致你的帖子被锁定。\n此外，视觉小说的数量级远超这个社区里的译者数量。:-(",
+    "high probability it simply does not exist, anywhere. Second, we don't translate these games ourselves and we do not coordinate the translations, either, so asking for a translation here is rather pointless and a sure-fire way to get your thread locked.": "大的可能它根本就不存在。其次，我们自己不翻译这些游戏，也不协调翻译工作，所以在这里请求翻译是没有意义的，而且肯定会导致你的帖子被锁定。",
+    "Also, there is an order of magnitude more visual novels than there are translators within this community. :-(": "此外，视觉小说的数量级远超这个社区里的译者数量。:-("
   }
 }
