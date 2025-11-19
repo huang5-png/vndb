@@ -1751,13 +1751,15 @@
     "type": "类型",
     "whoops": "哎呀 (修正错误)"
   },
-  "Patch_User_List_Headers": {
-    "Username": "用户名",
-    "Registered": "注册时间",
-    "VNs": "视觉小说",
-    "Votes": "投票数",
-    "Wishlist": "愿望单",
-    "Edits": "编辑次数",
+  "Patch_Userlist_Sort": {
+    "Username ▴▾": "用户名 ▴▾",
+    "Registered ▴▾": "注册时间 ▴▾",
+    "VNs ▴▾": "视觉小说 ▴▾",
+    "Votes ▴▾": "投票数 ▴▾",
+    "Wishlist ▴▾": "愿望单 ▴▾",
+    "Edits ▴▾": "编辑次数 ▴▾",
+    "Tags ▴▾": "标签 ▴▾",
+    "Images ▴▾": "图片 ▴▾",
     "Images": "图片"
   }
 }
