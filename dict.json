@@ -135,7 +135,16 @@
     "Browse all traits": "浏览所有特征",
     "Search traits": "搜索特征",
     "Trait tree": "特征树",
-    "Denied traits": "被拒特征"
+    "Denied traits": "被拒特征",
+    "Trait: Anal": "特征：肛门",
+    "Child traits": "子特征",
+    "Exclude lies": "排除谎言",
+    "Include lies": "包含谎言",
+    "Hide spoilers": "隐藏剧透",
+    "Show minor spoilers": "显示轻微剧透",
+    "Spoil me!": "我要剧透！",
+    "next ›": "下一页 ›",
+    "And": "且"
   },
   "Tags": {
     "Adv": "ADV (文字冒险)",
@@ -767,7 +776,8 @@
     "Teacher Support Character": "教师配角",
     "Triplets as Support Characters": "三胞胎配角",
     "Twins as Support Characters": "双胞胎配角",
-    "Twin Sister Support Character": "双胞胎姐妹配角"
+    "Twin Sister Support Character": "双胞胎姐妹配角",
+    
   },
   "Traits": {
     "Hair Color": "发色",
@@ -1008,7 +1018,24 @@
     "Caribbean": "加勒比人",
     "Dominican": "多米尼加人",
     "Oceanian": "大洋洲人",
-    "Puerto Rican": "波多黎各人"
+    "Puerto Rican": "波多黎各人",
+    "Anal": "肛门",
+    "Anal Fingering": "肛门指交",
+    "Anal Fisting": "肛门拳交",
+    "Anal Multiple Fisting": "肛门多重拳交",
+    "Anal Multiple Objects Insertion": "肛门多异物插入",
+    "Anal Multiple Penetration": "肛门多重插入",
+    "Anal Multiple Tentacle Penetration": "肛门多触手插入",
+    "Anal Object Insertion": "肛门异物插入",
+    "Ass to Mouth": "肛门到嘴 (ATM)",
+    "Dirty Anal": "脏肛 (排泄物残留)",
+    "Double Penetration (Group Sex)": "双重插入 (群交)",
+    "Pegging": "假阴茎肛交 (Pegging)",
+    "Rimming Handjob": "舔肛手交",
+    "Vaginal + Anal Fisting": "两穴拳交 (阴道+肛门)",
+    "Vaginal + Anal Object Insertion": "两穴异物插入 (阴道+肛门)",
+    "Vaginal + Anal Penetration": "两穴同入 (阴道+肛门)",
+    "Vaginal + Anal Tentacle Penetration": "两穴触手插入 (阴道+肛门)"
   },
   "Attributes": {
     "Very short": "极短 (<2h)",
@@ -1042,6 +1069,10 @@
     "that stand out.": "...引人注目的各种细节。",
     "Everybody has the right to live, no matter how retarded they may be.": "每个人都有生存的权利，无论他们多么迟钝。",
     "No mercy for Mercy!": "对 Mercy 绝不留情！",
-    "These are all the non-heroine and non-protag characters a game has.": "这些是游戏中除了女主角和主角之外的所有角色。"
+    "These are all the non-heroine and non-protag characters a game has.": "这些是游戏中除了女主角和主角之外的所有角色。",
+    "Can not be directly applied to characters.": "不能直接应用于角色。",
+    "Indicates sexual content.": "表示包含性内容。",
+    "This meta trait is here to group together sexual acts involving the": "此元特征旨在归类涉及",
+    "anus": "肛门的性行为。"
   }
 }
