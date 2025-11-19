@@ -1639,5 +1639,24 @@
     "9. Can I link to VNDB?": "9. 我可以链接到 VNDB 吗？",
     "Of course you can! We even have some icons you could use to link to and promote VNDB. Direct linking is, as with all other images on this site, allowed.": "当然可以！我们甚至有一些图标供你用于链接和推广 VNDB。与本站所有其他图片一样，直接外链图片也是允许的。",
     "If you feel these banners don't suit your needs, please don't hesitate to make one yourself.": "如果你觉得这些横幅不符合你的需求，请随时自己制作。"
+  },
+  "Patch_FAQ_Fixed": {
+    "Guidelines": "指南",
+    "About VNDB": "关于 VNDB",
+    "Discussion Board": "讨论板",
+    "Privacy Policy & Licensing": "隐私政策与许可",
+    "Database Dumps": "数据库转储",
+    "Development": "开发",
+    "Asking for recommendations on the discussion board is usually not a good idea, for various reasons. If you're looking for VNs that most people have played, check out the": "在讨论板上寻求推荐通常不是一个好主意，原因有很多。如果你在寻找大多数人都玩过的 VN，请查看",
+    "Asking for recommendations on the discussion board is usually not a good idea, for various reasons.  If you're looking for VNs that most people have played, check out the": "在讨论板上寻求推荐通常不是一个好主意，原因有很多。如果你在寻找大多数人都玩过的 VN，请查看",
+    ". If you're interested in VNs that are generally considered \"good\" or \"awesome\", check out the": "。如果你对被普遍认为“好”或“棒”的 VN 感兴趣，请查看",
+    ".  If you're interested in VNs that are generally considered \"good\" or \"awesome\", check out the": "。如果你对被普遍认为“好”或“棒”的 VN 感兴趣，请查看",
+    ". If you're looking for something specific,": "。如果你在找特定的东西，",
+    ". If you're interested in a more personal answer, compare the vote lists of our": "。如果你想要更个性化的回答，请对比我们",
+    "with your own and decide what to read next based on that.": "的投票列表，并以此决定接下来读什么。",
+    "high probability it simply does not exist, anywhere. Second, we don't translate these games ourselves and we do not coordinate the translations, either, so asking for a translation here is rather pointless and a sure-fire way to get your thread locked.": "大的可能它根本就不存在。其次，我们自己不翻译这些游戏，也不协调翻译工作，所以在这里请求翻译是没有意义的，而且肯定会导致你的帖子被锁定。",
+    "Also, there is an order of magnitude more visual novels than there are translators within this community. :-(": "此外，视觉小说的数量级远超这个社区里的译者数量。:-(",
+    "A visual novel can be seen as a combination of a novel and a computer game: they're computer games with a large text based storyline and only little interaction of the player. A typical visual novel consists of text over an anime-style background image and is accompanied by background music. Throughout the game, the player usually has to answer a few questions which will have an effect on the story, thus playing a visual novel a second time while giving other answers may result in an entirely different plot.": "视觉小说可以被视为小说和电脑游戏的结合：它们是拥有大量文本剧情且玩家互动较少的电脑游戏。典型的视觉小说由动漫风格背景图上的文本组成，并配有背景音乐。在整个游戏中，玩家通常需要回答几个问题，这将对故事产生影响，因此在第二次游玩时选择不同的答案可能会导致完全不同的情节。",
+    "A visual novel can be seen as a combination of a novel and a computer game: they're computer games with a large text based storyline and only little interaction of the player. A typical visual novel consists of text over an anime-style background image and is accompanied by background music.  Throughout the game, the player usually has to answer a few questions which will have an effect on the story, thus playing a visual novel a second time while giving other answers may result in an entirely different plot.": "视觉小说可以被视为小说和电脑游戏的结合：它们是拥有大量文本剧情且玩家互动较少的电脑游戏。典型的视觉小说由动漫风格背景图上的文本组成，并配有背景音乐。在整个游戏中，玩家通常需要回答几个问题，这将对故事产生影响，因此在第二次游玩时选择不同的答案可能会导致完全不同的情节。"
   }
 }
