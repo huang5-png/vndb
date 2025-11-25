@@ -5069,5 +5069,44 @@
     "VNDB.org strives to be a comprehensive database for information about visual novels.": "VNDB.org 致力于成为一个关于视觉小说的综合信息数据库。",
     "This website is built as a wiki, meaning that anyone can freely add and contribute information to the database, allowing us to create the largest, most accurate and most up-to-date visual novel database on the web.": "本网站基于维基 (Wiki) 模式构建，意味着任何人都可以自由地向数据库添加和贡献信息，这使我们能够创建网络上最大、最准确和最新的视觉小说数据库。",
     "VNDB.org strives to be a comprehensive database for information about visual novels.\nThis website is built as a wiki, meaning that anyone can freely add and contribute information to the database, allowing us to create the largest, most accurate and most up-to-date visual novel database on the web.": "VNDB.org 致力于成为一个关于视觉小说的综合信息数据库。\n本网站基于维基 (Wiki) 模式构建，意味着任何人都可以自由地向数据库添加和贡献信息，这使我们能够创建网络上最大、最准确和最新的视觉小说数据库。"
+  },
+  "Patch_User_Status": {
+    "Playing": "在玩",
+    "Finished": "玩过/通关",
+    "Stalled": "搁置/暂停",
+    "Dropped": "抛弃/弃坑",
+    "Wishlist": "想玩/愿望单",
+    "Blacklist": "黑名单",
+    "Tier": "梯队/层级",
+    "Comments": "评论/备注",
+    "Private": "私密",
+    "Public": "公开"
+  },
+  "Patch_Character_Stats_Fields": {
+    "Bust": "胸围",
+    "Waist": "腰围",
+    "Hips": "臀围",
+    "Height": "身高",
+    "Weight": "体重",
+    "Blood type": "血型",
+    "Birthday": "生日",
+    "Three sizes": "三围",
+    "Age": "年龄",
+    "Sex": "性别"
+  },
+  "Patch_Media_Tech": {
+    "CD-ROM": "CD-ROM",
+    "DVD-ROM": "DVD-ROM",
+    "Blu-ray": "蓝光光盘",
+    "Internet download": "网络下载",
+    "Floppy": "软盘",
+    "Cartridge": "卡带",
+    "UMD": "UMD (PSP光盘)",
+    "Resolution": "分辨率",
+    "Voice": "语音",
+    "Animation": "动画",
+    "DRM-Free": "无 DRM (免加密)",
+    "Activation": "在线激活",
+    "Online authentication": "在线认证"
   }
 }
