@@ -4966,5 +4966,18 @@
     "Password": "密码",
     "This field is required.": "此项必填。",
     "Username or email": "用户名或邮箱"
+  },
+  "Patch_Registration_UI": {
+    "A valid address is required in order to activate and use your account.": "需要有效的邮箱地址才能激活并使用您的账号。",
+    "Create an account": "创建账号",
+    "E-Mail": "电子邮箱",
+    "I am 18 years or older.": "我已年满 18 岁。",
+    "I click checkboxes without reading the label.": "我没看说明就勾选了复选框。",
+    "I have read the": "我已阅读",
+    "Mail not arriving? Remember to check your spam folder!": "没收到邮件？记得检查垃圾邮件文件夹！",
+    "Username requirements:": "用户名要求：",
+    "You can at least pretend you've read it.": "你至少假装读一下吧。",
+    "You must be 18 years or older to use this site.": "您必须年满 18 岁才能使用本网站。",
+    "privacy policy and contributor license agreement": "隐私政策和贡献者许可协议"
   }
 }
