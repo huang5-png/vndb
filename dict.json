@@ -5047,5 +5047,10 @@
     "Vote stats": "投票统计",
     "Wine AppDB": "Wine AppDB",
     "unofficial": "非官方"
+  },
+  "Patch_Search_Results_UI": {
+    "# Votes": "# 投票数",
+    "And/Or": "与/或",
+    "Release date": "发行日期"
   }
 }
