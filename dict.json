@@ -5052,5 +5052,12 @@
     "# Votes": "# 投票数",
     "And/Or": "与/或",
     "Release date": "发行日期"
+  },
+  "Patch_Registration_Requirements": {
+    "- Between 2 and 15 characters long.": "- 长度在 2 到 15 个字符之间。",
+    "Other than that, your address is only used in case you lose your password,": "除此之外，您的邮箱地址仅用于找回密码，"
+  },
+  "Patch_Home_Intro": {
+    "This website is built as a wiki, meaning that anyone can freely add and contribute information to the database, allowing us to create the largest, most accurate and most up-to-date visual novel database on the web.": "本网站基于维基 (Wiki) 模式构建，意味着任何人都可以自由地向数据库添加和贡献信息，这使我们能够创建网络上最大、最准确和最新的视觉小说数据库。"
   }
 }
