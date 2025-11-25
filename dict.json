@@ -4959,5 +4959,12 @@
     "Heroes by Personality": "按性格分类的男主角",
     "Tag: Hero's Traits": "标签：男主角特征",
     "g888": "g888"
+  },
+  "Patch_Login_UI": {
+    "Lost your password?": "忘记密码？",
+    "No account yet?": "还没有账号？",
+    "Password": "密码",
+    "This field is required.": "此项必填。",
+    "Username or email": "用户名或邮箱"
   }
 }
