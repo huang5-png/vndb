@@ -5250,5 +5250,11 @@
     "to see if we already have information about this person.": "以查看我们是否已有关于此人的信息。",
     "to see if we already have information about this producer.": "以查看我们是否已有关于此制作商的信息。",
     "to see if we already have information about this visual novel.": "以查看我们是否已有关于此视觉小说的信息。"
+  },
+  "Patch_User_Menu_Titles": {
+    "My Visual Novel List": "我的视觉小说列表",
+    "My Votes": "我的评分",
+    "My Wishlist": "我的愿望单",
+    "My Recent Changes": "我最近的更改"
   }
 }
