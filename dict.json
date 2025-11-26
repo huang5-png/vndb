@@ -5256,5 +5256,12 @@
     "My Votes": "我的评分",
     "My Wishlist": "我的愿望单",
     "My Recent Changes": "我最近的更改"
+  },
+  "Patch_User_Links_Lowercase": {
+    "edit": "编辑",
+    "list": "列表",
+    "votes": "评分",
+    "wishlist": "愿望单",
+    "posts": "帖子"
   }
 }
